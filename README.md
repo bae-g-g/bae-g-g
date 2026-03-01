@@ -1,3 +1,1 @@
-
-
-[![Solved.ac 프로필](https://github-readme-solvedac.hypo.kr/api/?handle=rudrmsrns)](https://solved.ac/rudrmsrns)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudrmsrns)](https://solved.ac/rudrmsrns)
