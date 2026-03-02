@@ -40,7 +40,7 @@
 # 📑 Summary of Activities
 
 
-### [🚙 **공장 시스템 자동화 프로젝트 ( 2026.01 ~ 2026.02) -프로젝트 바로가기**](https://github.com/bae-g-g/smart-logistics-system)
+### [🚙 **공장 시스템 자동화 프로젝트 ( 2026.01 ~ 2026.02) - 프로젝트 바로가기**](https://github.com/bae-g-g/smart-logistics-system)
   <details>
     <summary>👉  ( 클릭해서 펼치기 )  공장 물류시스템 (클라우드-엣지-엔드 디바이스) 자동화 시스템 - 삼성 SW 청년 아카데미 프로젝트 우수상</summary>
   
