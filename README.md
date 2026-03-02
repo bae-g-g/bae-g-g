@@ -14,7 +14,7 @@
 
 <br>
 
-## tech
+## 🔧 Tech
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -39,11 +39,10 @@
 ---
 # 📑 Summary of Activities
 
-##
 
-- [🚙 **공장 시스템 자동화 프로젝트 ( 2026.01 ~ 2026.02)**](https://github.com/bae-g-g/smart-logistics-system)
+### [🚙 **공장 시스템 자동화 프로젝트 ( 2026.01 ~ 2026.02) -프로젝트 바로가기**](https://github.com/bae-g-g/smart-logistics-system)
   <details>
-    <summary>👉공장 물류시스템 (클라우드-엣지-엔드 디바이스) 자동화 시스템 - 삼성 SW 청년 아카데미 프로젝트 우수상</summary>
+    <summary>👉  ( 클릭해서 펼치기 )  공장 물류시스템 (클라우드-엣지-엔드 디바이스) 자동화 시스템 - 삼성 SW 청년 아카데미 프로젝트 우수상</summary>
   
   - **역할:** 시스템 아키텍처 설계, 통신 인프라 구축, 컨베이어 제어 로직 
   - **내용:**
@@ -68,5 +67,32 @@
 
   
   </details>
+  
+  ![시연이미지](https://github.com/bae-g-g/smart-logistics-system/blob/main/img/%EC%A3%BC%EC%B0%A8.gif)
 
+
+### [🚙 **비전인식 델타로봇 프로젝트 ( 2024.09 ~ 2025.06) - 프로젝트 바로가기**](https://github.com/bae-g-g/smart-logistics-system) 
+  
+  <details>
+    <summary>👉 ( 클릭해서 펼치기 ) 비전 인식기반 쓰레기 분류 자동화 델타로봇   - 임베디드 시스템 공학과 캡스톤 프로젝트</summary>
+    
+    
+    
+  - **역할:**  : 델타로봇 제어 및 통신 인터페이스 구현 (역기구학, 펌웨어 및 통신 인터페이스) 
+  - **내용:**
+    - **역기구학 계산** : 델타 로봇의 End-Effector를 원하는 좌표 (x, y, z)로 이동시키기 위해 각 모터의 회전 각도 (theta1,2,3)를 계산하는 핵심 알고리즘 적용.
+    - **펌웨어 개발** : TaskScheduler를 통한 모터 병렬제어 및 외부센서를 통한 인텁트 처리
+    - **통신 인터페이스 구축** : 젯슨보드와 teensy4.1보드간의 시리얼 통신을 위한 통신 인터페이스 구축
+
+  ### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+### 🛠 Embedded & Hardware
+ ![Teensy 4.1](https://img.shields.io/badge/Teensy%204.1-175596?style=for-the-badge&logo=arduino&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white) ![NVIDIA Jetson Xavier NX](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 👁️ AI & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+  </details>
+
+  ![시연이미지](https://github.com/bae-g-g/Vision-PickPlace-DeltaRobot/blob/main/img/%EC%A0%84%EC%B2%B4%EC%8B%9C%EC%97%B0.gif)
 
