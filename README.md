@@ -72,7 +72,7 @@
   ![시연이미지](https://github.com/bae-g-g/smart-logistics-system/blob/main/img/%EC%A3%BC%EC%B0%A8.gif)
 
 
-### [🚙 **비전인식 델타로봇 프로젝트 ( 2024.09 ~ 2025.06) - 프로젝트 바로가기**](https://github.com/bae-g-g/smart-logistics-system) 
+### [🚙 **비전인식 델타로봇 프로젝트 ( 2024.09 ~ 2025.06) - 프로젝트 바로가기**](https://github.com/bae-g-g/Vision-PickPlace-DeltaRobot) 
   
   <details>
     <summary>👉 ( 클릭해서 펼치기 ) 비전 인식기반 쓰레기 분류 자동화 델타로봇   - 임베디드 시스템 공학과 캡스톤 프로젝트</summary>
