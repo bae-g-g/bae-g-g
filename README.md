@@ -100,4 +100,31 @@
 ### [**C언어 멘토링 및 학습자료 - 정리문서 바로가기**](https://github.com/bae-g-g/C-study)
 
 - 2023.03 ~ 2025.03 멘토링 자체제작 학습자료
+
+### [**RC Car 수동/자동 주행 및 제어 시스템 프로젝트 ( 2025.05 ~ 2025.06 ) - 프로젝트 바로가기**](https://github.com/psy1218/RC_Car)
+
+<details>
+    <summary>👉 ( 클릭해서 펼치기 )  비전 인식 라인트레이싱 및 수동 제어 RC카 시스템  (2025.05~2025.06)</summary>
+
+- **역할:** 비전 인식 기반 라인트레이싱 영상 처리, 이기종 간 시리얼 통신 인터페이스 설계, 실시간 웹 스트리밍 환경 구축
+- **내용:**
+  - **비전 인식 기반 자율 주행 구현** : Raspberry Pi 5 + Picamera2 환경에서 OpenCV를 활용한 도로 라인 디텍션 적용. 그림자/빛 노이즈 등의 환경 문제를 해결하기 위해 전처리 파이프라인(히스토그램 평활화, 모폴로지 Opening, 가우시안 블러, 이진화) 최적화 수행.
+  - **시리얼 통신 인터페이스 구축** : 라즈베리파이에서 연산된 조향값(-50~+50 범위의 데이터)을 아두이노 측으로 매 프레임(33.3ms, 9600 baud rate) 지속 전송하는 시리얼 통신 연결 및 포트 예외 복구 로직 구현.
+  - **영상 스트리밍 서버 (관제) 구축** : Flask 프레임워크 기반의 원격 관제 웹 서버 구현. 주행에 간섭 없이 MJPEG 스트리밍 방식으로 Vision 처리 데이터 및 전방 시야를 브라우저 단에 송출되도록 파이프라인 작성.
+  - **제어 아키텍처 통합**: 수신기(R9DS) 및 조종기(AT9)를 통한 수동 모드와 자율주행 모드의 인터럽트 기반 전환, ESC/서보모터 제어, 긴급 모듈 사출 기능 등 통합 시스템 아키텍처 테스트 및 안정성 개선.
+    
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🛠 Embedded & Hardware
+
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino UNO](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 👁️ Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+</details>
   
