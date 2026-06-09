@@ -52,7 +52,7 @@
 ## 🏆 Awards
 
 - **삼성 소프트웨어 역량 테스트(26.03) - B형 취득**
-- **[SSAFY 프로젝트 전시발표회](https://github.com/bae-g-g/SPOT_GET_IT)(26.06) - 전국 캠퍼스 1위**
+- **[SSAFY 프로젝트 전시발표회](https://github.com/jeayoungho97/SPOT_GET_IT)(26.06) - 전국 캠퍼스 1위**
 - **SSAFY 자율주행 시뮬레이션 프로젝트(26.03) - 우수상**
 - **[SSAFY AIOT 프로젝트(](https://github.com/bae-g-g/smart-logistics-system)(26.02) - 우수상**
 - **9회 INU 메이커 경진대회(24.12) - 장려**
@@ -80,8 +80,7 @@
 
 
 
-### [**다중 정찰 로봇 및 관제 프로젝트 (2026.04 ~ 2026.05[8주]) - 프로젝트 바로가기**](https://github.com/bae-g-g/SPOT_GET_IT)
-
+### [**다중 정찰 로봇 및 관제 프로젝트 (2026.04 ~ 2026.05[8주]) - 프로젝트 바로가기**](https://github.com/jeayoungho97/SPOT_GET_IT)
 <details>
   <summary>👉( 클릭해서 펼치기 )  마이크로 스팟 기반 4족 보행 로봇 및 다중 로봇을 이용한 정찰/관제 시스템 - 삼성 SW 청년 아카데미 프로젝트 전시발표회 전국 1위 </summary>
 
