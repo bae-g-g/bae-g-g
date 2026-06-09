@@ -67,10 +67,10 @@
 
 | Project | My Role | Keywords |
 | --- | --- | --- |
-| SPOT_GET_IT | RPi5 브릿지 앱, UDP 패킷 재조립, POSIX 공유메모리, Qt6 관제 연동 | UDP, POSIX SHM, Qt6, Multi-robot Monitoring |
+| 다중 정찰 로봇 및 관제 프로젝트 | RPi5 브릿지 앱, UDP 패킷 재조립, POSIX 공유메모리, Qt6 관제 연동 | UDP, POSIX SHM, Qt6, Multi-robot Monitoring |
 | Smart Logistics System | 3계층 폐쇄망 아키텍처, MQTT 게이트웨이, 영상 스트리밍, 컨베이어 제어 | Tailscale, Docker, mTLS, MQTT, WebRTC |
 | Vision-PickPlace-DeltaRobot | 델타로봇 역기구학, Teensy 펌웨어, Jetson-MCU Serial 통신 | Inverse Kinematics, Firmware, Serial, Stepper Motor |
-| RC Car | OpenCV 라인트레이싱, Raspberry Pi-Arduino Serial 통신, Flask 관제 스트리밍 | OpenCV, Serial, MJPEG, Autonomous Driving |
+| 리인 트레이싱 RC Car | OpenCV 라인트레이싱, Raspberry Pi-Arduino Serial 통신, Flask 관제 스트리밍 | OpenCV, Serial, MJPEG, Autonomous Driving |
 | C Mentoring | C 언어/Arduino 기초 학습자료 제작 및 멘토링 | C, Arduino, Teaching, Documentation |
 
 <br>
