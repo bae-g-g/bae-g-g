@@ -54,7 +54,8 @@
 - **삼성 소프트웨어 역량 테스트(26.03) - B형 취득**
 - **[SSAFY 프로젝트 전시발표회](https://github.com/jeayoungho97/SPOT_GET_IT)(26.06) - 전국 캠퍼스 1위**
 - **SSAFY 자율주행 시뮬레이션 프로젝트(26.03) - 우수상**
-- **[SSAFY AIOT 프로젝트(](https://github.com/bae-g-g/smart-logistics-system)(26.02) - 우수상**
+- **[SSAFY AIOT 프로젝트](https://github.com/bae-g-g/smart-logistics-system)(26.02) - 우수상**
+- **[인천대 진로 및 전공박람회](https://github.com/bae-g-g/Vision-PickPlace-DeltaRobot)(25.05)  - 임베디드시스템과 대표 전시작품 선정** 
 - **9회 INU 메이커 경진대회(24.12) - 장려**
 - **미래모빌리티 첨단 융합 설계(24.08) - 금상**
 - **7회 INU 메이커 경진대회(22.12) - 우수상**
