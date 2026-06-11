@@ -107,6 +107,7 @@
 
 </details>
 
+<img width="400" height="308" alt="spotgetit" src="https://github.com/user-attachments/assets/998d2423-0931-49d2-9808-3b84a801560a" />
 
 
 
