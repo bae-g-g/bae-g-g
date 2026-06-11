@@ -38,12 +38,12 @@
 
 ### Communication / Infra
 
-![UART](https://img.shields.io/badge/UART-555555?style=flat-square&logo=serialport&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
 ![UDP](https://img.shields.io/badge/UDP-000000?style=flat-square&logo=socketdotio&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![UART](https://img.shields.io/badge/UART-555555?style=flat-square&logo=serialport&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 
 ---
